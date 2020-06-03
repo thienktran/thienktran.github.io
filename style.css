@@ -17,7 +17,11 @@ p, a {
   font-size: 1.25rem;
 }
 
-
+img {
+  padding-left: 10px;
+  height: 350px;
+  width: 550px;
+}
 
 .container {
   min-height: 100%;
