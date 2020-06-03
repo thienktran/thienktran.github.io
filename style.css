@@ -9,6 +9,10 @@ h1 {
   font-size: 62px;
 }
 
+h2 {
+  color: yellow;
+}
+
 p, a {
   font-size: 1.25rem;
 }
