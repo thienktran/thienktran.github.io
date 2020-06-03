@@ -2,7 +2,7 @@ html, body {
   height: 100%;
   margin: 0;
   font-family: Arial;
-  color: #ffffff;
+  color: #FFFF00;
 }
 
 h1 {
@@ -17,11 +17,6 @@ p, a {
   font-size: 1.25rem;
 }
 
-img {
-  padding-left: 10px;
-  height: 350px;
-  width: 550px;
-}
 
 
 .container {
