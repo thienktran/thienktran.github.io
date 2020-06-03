@@ -9,8 +9,12 @@ h1 {
   font-size: 62px;
 }
 
-p, a {
+p {
   font-size: 1.00rem;
+}
+
+a {
+  font-size: 1.50rem;
 }
 
 img {
