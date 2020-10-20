@@ -1,20 +1,21 @@
 html, body {
   height: 100%;
   margin: 0;
-  font-family: Arial;
+  font-family: Times;
   color: #ffffff;
 }
 
 h1 {
-  font-size: 62px;
+  font-size: 100px;
 }
 
-p {
-  font-size: 1.00rem;
+h10 {
+  font-size: 90px;
 }
 
-a {
-  font-size: 1.50rem;
+
+p, a {
+  font-size: 1.25rem;
 }
 
 img {
